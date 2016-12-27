@@ -1,0 +1,6 @@
+GetNewFactIntent a fact
+GetNewFactIntent a metal fact
+GetNewFactIntent tell me a metal fact
+GetNewFactIntent give me a metal fact
+GetNewFactIntent tell me metal facts
+GetNewFactIntent give me metal facts

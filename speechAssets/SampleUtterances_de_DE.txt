@@ -1,0 +1,3 @@
+GetNewFactIntent ein Metal Faktum
+GetNewFactIntent sage mir ein Metal Faktum
+GetNewFactIntent gib mir ein Metal Faktum
